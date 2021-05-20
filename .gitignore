@@ -3,8 +3,5 @@ temp-python/*
 www/*
 .DS_Store
 Makefile
-jemdoc 
-MENU
 latexmath2png.py
 jemdoc.py
-index.jemdoc
