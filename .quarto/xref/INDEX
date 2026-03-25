@@ -4,5 +4,35 @@
   },
   "about.qmd": {
     "about.html": "684b7008"
+  },
+  "teaching.qmd": {
+    "teaching.html": "a95bfe2a"
+  },
+  "publications.qmd": {
+    "publications.html": "3c1b0d23"
+  },
+  "posts.qmd": {
+    "posts.html": "f24329b5"
+  },
+  "projects.qmd": {
+    "projects.html": "63809a51"
+  },
+  "people.qmd": {
+    "people.html": "499e11b3"
+  },
+  "posts/news-title/index.qmd": {
+    "index.html": "2536881c"
+  },
+  "posts/paper-title/index.qmd": {
+    "index.html": "2f52591c"
+  },
+  "posts/event-title/index.qmd": {
+    "index.html": "dfcebb09"
+  },
+  "404.qmd": {
+    "404.html": "2d84ba20"
+  },
+  "contact.qmd": {
+    "contact.html": "98c46861"
   }
 }
