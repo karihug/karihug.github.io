@@ -1,7 +1,6 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+title: "Karissa Huang"
+image: "files/images/kh-pic.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -12,106 +11,30 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:krhuang@berkeley.edu
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
+      href: https://www.linkedin.com/in/karissa-huang/
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=z9_mebkAAAAJ&hl=en
       target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
 ---
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+I am a fifth year PhD student in the Statistics Department at UC Berkeley, advised by [Christian Borgs](http://christianborgs.com/) and [Jennifer Chayes](http://jenniferchayes.com/).
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+I am broadly interested in 
 
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Test to publish** your site using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch) (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Check** if your website works or not. If successful, you should see exactly the same website as this one using your own Github Pages url:
-   - `https://YourGitHubUserName.github.io` if your repository name is `YourGitHubUserName.github.io`
-   - `https://YourGitHubUserName.github.io/RepositoryName` for other `RepositoryName`
-   - Errors:
-      - If [404](/files/images/Error1.png), it is likely you haven't set up GitHub Pages
-      - If it shows the [README](/files/images/Error2.png) file, it is likely you've published from the `root` folder, not the `docs` directory
 
-If you achieve this milestone, congratulations! You are now ready to start updating your website:
+Before coming to Berkeley I received my undergraduate degree from Harvard, where I was advised by [Subhabrata Sen](https://sites.harvard.edu/sus977/). I've also spent time as an Applied Science intern at LinkedIn.
 
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/#website-preview) your site locally.  
-1. **`Commit` to publish** your updates.
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
-1. **Link** your website on your official pages to let Google and AI bots include in their search results.
+My research is supported in part by the NSF GRFP.
 
-## Experience
 
-- Researcher, Univerisity
-
-## Education
-
-- PhD, Univerisity
-
+Email: krhuang at berkeley dot edu
 :::
-
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>

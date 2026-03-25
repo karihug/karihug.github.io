@@ -2,21 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto Academic, PhD",
+    "title": "Karissa Huang",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository to bookmark it for future reference.\n\nFork this repository and rename it to YourGitHubUserName.github.io.\n\nTest to publish your site using GitHub Pages (make sure configuring your GitHub repository to publish from the docs directory, not the root folder).\nCheck if your website works or not. If successful, you should see exactly the same website as this one using your own Github Pages url:\n\nhttps://YourGitHubUserName.github.io if your repository name is YourGitHubUserName.github.io\nhttps://YourGitHubUserName.github.io/RepositoryName for other RepositoryName\nErrors:\n\nIf 404, it is likely you haven’t set up GitHub Pages\nIf it shows the README file, it is likely you’ve published from the root folder, not the docs directory\n\n\n\nIf you achieve this milestone, congratulations! You are now ready to start updating your website:\n\nUpdate the _quarto.yml file to configure your site’s basic settings.\n\nAdd or edit content in the following files and folders:\n\n/posts/ – posts about publications, news, events\n\nteaching.qmd – teaching information\n\nprojects.yml – research or other projects\n\npeople.qmd and /people/ – team or collaborators\n\n/files/ - profiles, images, pdfs, and includes\n\nRender and preview your site locally.\n\nCommit to publish your updates.\nRefine and polish your content and design as needed.\n\n✅ Enjoy your new website!\nLink your website on your official pages to let Google and AI bots include in their search results.\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \nI am a fifth year PhD student in the Statistics Department at UC Berkeley, advised by Christian Borgs and Jennifer Chayes.\nI am broadly interested in\nBefore coming to Berkeley I received my undergraduate degree from Harvard, where I was advised by Subhabrata Sen. I’ve also spent time as an Applied Science intern at LinkedIn.\nMy research is supported in part by the NSF GRFP.\nEmail: krhuang at berkeley dot edu"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
+    "title": "Karissa Huang",
     "section": "",
     "text": "Researcher, Univerisity"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
+    "title": "Karissa Huang",
     "section": "",
     "text": "PhD, Univerisity"
   },
@@ -86,16 +86,16 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Preprints and Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Alimohammadi, Y., Huang, K., Borgs, C., & Chayes, J. (2026). Auditing the auditors: Does community-based moderation get it right? arXiv preprint arXiv:2603.18053. [link]\nBorgs, C., Huang, K., & Zhao, G. (2025). Travel bans vs. social distancing: A mathematical analysis. arXiv preprint arXiv:2510.08895. [link]\nChatterjee, U., Huang, K., Karmakar, R., Kumar, B.R., Lugosi, G., Malhotra, N., et al. (2025). Detecting weighted hidden cliques. arXiv preprint arXiv:2506.21543. [link]\nBorgs, C., Huang, K., & Ikeokwu, C. (2024). A law of large numbers for SIR on the stochastic block model: A proof via herd immunity. arXiv preprint arXiv:2410.07097. [link]\nHuang, K., Jiang, Z., & Imai, K. (2022). Designing and analyzing two-stage randomized experiments. R package RCT2, version 0.0.1. [CRAN]"
   },
   {
     "objectID": "publications.html#selected-work",
     "href": "publications.html#selected-work",
     "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "section": "",
+    "text": "Einstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
   },
   {
     "objectID": "projects.html",
