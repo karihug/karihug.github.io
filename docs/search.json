@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Karissa Huang",
     "section": "",
-    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \nI am a fifth year PhD student in the Statistics Department at UC Berkeley, advised by Christian Borgs and Jennifer Chayes.\nI am broadly interested in\nBefore coming to Berkeley I received my undergraduate degree from Harvard, where I was advised by Subhabrata Sen. I’ve also spent time as an Applied Science intern at LinkedIn.\nMy research is supported in part by the NSF GRFP.\nEmail: krhuang at berkeley dot edu"
+    "text": "E-mail\n  \n  \n      Google Scholar\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI am a fifth year PhD student in the Statistics Department at UC Berkeley, advised by Christian Borgs and Jennifer Chayes.\nI am broadly interested in using probability theory and statistics to understand the behavior of complex systems in computer science, economics, and public health. My work spans both theory and applications, with recent interests including networks, social behavior, and epidemiological models.\nBefore coming to Berkeley I received my undergraduate degree from Harvard, where I was advised by Subhabrata Sen. I’ve also spent time as an Applied Science intern at LinkedIn.\nMy research is supported in part by the NSF GRFP.\nEmail: krhuang at berkeley dot edu"
   },
   {
     "objectID": "index.html#experience",
@@ -60,7 +60,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "STAT 205B, Probabiltiy Theory (Spring 2026)\nSTAT 201B, Introduction to Statistics at an Advanced Level (Fall 2023, 2025)"
   },
   {
     "objectID": "teaching.html#class-1",
@@ -88,7 +88,7 @@
     "href": "publications.html",
     "title": "Preprints and Publications",
     "section": "",
-    "text": "Alimohammadi, Y., Huang, K., Borgs, C., & Chayes, J. (2026). Auditing the auditors: Does community-based moderation get it right? arXiv preprint arXiv:2603.18053. [link]\nBorgs, C., Huang, K., & Zhao, G. (2025). Travel bans vs. social distancing: A mathematical analysis. arXiv preprint arXiv:2510.08895. [link]\nChatterjee, U., Huang, K., Karmakar, R., Kumar, B.R., Lugosi, G., Malhotra, N., et al. (2025). Detecting weighted hidden cliques. arXiv preprint arXiv:2506.21543. [link]\nBorgs, C., Huang, K., & Ikeokwu, C. (2024). A law of large numbers for SIR on the stochastic block model: A proof via herd immunity. arXiv preprint arXiv:2410.07097. [link]\nHuang, K., Jiang, Z., & Imai, K. (2022). Designing and analyzing two-stage randomized experiments. R package RCT2, version 0.0.1. [CRAN]"
+    "text": "Auditing the auditors: Does community-based moderation get it right? Yeganeh Alimohammadi*, Karissa Huang*, Christian Borgs, Jennifer Chayes (2026+).\nTravel bans vs. social distancing: A mathematical analysis Christian Borgs, Karissa Huang, Geng Zhao (2025+). Submitted\nDetecting weighted hidden cliques. Urmisha Chatterjee, Karissa Huang, Ritabrata Karmakar, Vinay Kumar, Gabor Lugosi, Nandan Malhotra (2025)\nA law of large numbers for SIR on the stochastic block model: A proof via herd immunity Christian Borgs, Karissa Huang, Chris Ikeokwu (2024+). Submitted\nDesigning and analyzing two-stage randomized experiments. R package RCT2, version 0.0.1. Karissa Huang, Zhichao Jiang, Kosuke Imai (2022). CRAN"
   },
   {
     "objectID": "publications.html#selected-work",
@@ -145,5 +145,12 @@
     "title": "Can quantum-mechanical description of physical reality be considered complete?",
     "section": "Links",
     "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "teaching.html#graduate-student-instructor-uc-berkeley",
+    "href": "teaching.html#graduate-student-instructor-uc-berkeley",
+    "title": "Teaching",
+    "section": "",
+    "text": "STAT 205B, Probabiltiy Theory (Spring 2026)\nSTAT 201B, Introduction to Statistics at an Advanced Level (Fall 2023, 2025)"
   }
 ]

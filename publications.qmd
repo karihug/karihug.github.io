@@ -6,12 +6,19 @@ description-meta: "Information, pdfs, and social metrics of papers"
 title-block-banner: false
 css: custom.css
 ---
-Alimohammadi, Y., Huang, K., Borgs, C., & Chayes, J. (2026). Auditing the auditors: Does community-based moderation get it right? *arXiv preprint arXiv:2603.18053*. [[link](https://arxiv.org/abs/2603.18053)]
 
-Borgs, C., Huang, K., & Zhao, G. (2025). Travel bans vs. social distancing: A mathematical analysis. *arXiv preprint arXiv:2510.08895*. [[link](https://arxiv.org/abs/2510.08895)]
+- [Auditing the auditors: Does community-based moderation get it right?](https://arxiv.org/abs/2603.18053)<br>
+  Yeganeh Alimohammadi\*, Karissa Huang\*, Christian Borgs, Jennifer Chayes (2026+).
 
-Chatterjee, U., Huang, K., Karmakar, R., Kumar, B.R., Lugosi, G., Malhotra, N., et al. (2025). Detecting weighted hidden cliques. [[preprint](https://arxiv.org/abs/2506.21543)]
+- [Travel bans vs. social distancing: A mathematical analysis](https://arxiv.org/abs/2510.08895)<br>
+  Christian Borgs, Karissa Huang, Geng Zhao (2025+). *Submitted*
 
-Borgs, C., Huang, K., & Ikeokwu, C. (2024). A law of large numbers for SIR on the stochastic block model: A proof via herd immunity. *Submitted* [[preprint](https://arxiv.org/abs/2410.07097)] 
+- [Detecting weighted hidden cliques.](https://arxiv.org/abs/2506.21543)<br>
+  Urmisha Chatterjee, Karissa Huang, Ritabrata Karmakar, Vinay Kumar, Gabor Lugosi, Nandan Malhotra (2025)
 
-Huang, K., Jiang, Z., & Imai, K. (2022). Designing and analyzing two-stage randomized experiments. *R package RCT2, version 0.0.1*. [[CRAN](https://CRAN.R-project.org/package=RCT2)]
+- [A law of large numbers for SIR on the stochastic block model: A proof via herd immunity](https://arxiv.org/abs/2410.07097)<br>
+  Christian Borgs, Karissa Huang, Chris Ikeokwu (2024+). *Submitted*
+
+- [Designing and analyzing two-stage randomized experiments. *R package RCT2, version 0.0.1*.](https://CRAN.R-project.org/package=RCT2)<br>
+  Karissa Huang, Zhichao Jiang, Kosuke Imai (2022). *CRAN*
+
