@@ -6,6 +6,6 @@ toc: false
 
 
 ## Graduate Student Instructor, UC Berkeley
-- STAT 205B, Probabiltiy Theory (Spring 2026)
+- STAT 205B, Probability Theory (Spring 2026)
 - STAT 201B, Introduction to Statistics at an Advanced Level (Fall 2023, 2025)
 
